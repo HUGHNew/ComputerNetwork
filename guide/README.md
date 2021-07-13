@@ -1,5 +1,6 @@
 # 课程指导
 
+建议下一学期选修 **张靖宇** 老师的 **网络编程**
 ## 自学指导
 
 链接或内容
@@ -10,4 +11,7 @@
 
 ## 一些内容的链接
 
-用三级标题（如有需要，可用四级标题）和无序列表
+### P2P
+
+- [从头开始构建一个 P2P 网络](https://www.infoq.cn/article/wUtQU3ij3xc9_RKr38fH)
+- [P2P 文件共享系统资源](https://xorro-p2p.github.io/resources/)
