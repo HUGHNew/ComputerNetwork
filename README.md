@@ -5,7 +5,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SCU-CS.ComputerNetwork)
 [![Generate-Power-With-Love](https://img.shields.io/badge/Generate--Power--With-Love-red)](https://github.com/SCU-CS/Contributors)
 
-- [] 课程信息
+- [x] 课程信息
 - [] PPT
 - [] 作业
 - [] 课设
