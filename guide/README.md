@@ -13,6 +13,10 @@
 
 ## 一些内容的链接
 
+### Server
+
+- [nginx 开发 从入门到精通](http://tengine.taobao.org/book/index.html)
+
 ### P2P
 
 - [从头开始构建一个 P2P 网络](https://www.infoq.cn/article/wUtQU3ij3xc9_RKr38fH)
