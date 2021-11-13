@@ -7,15 +7,24 @@
 
 [自顶向下的辅助资料](https://wps.pearsoned.com/ecs_kurose_compnetw_6/)
 
+视频MOOC
+
+
 ## 书籍推荐
 
 ## 笔记
-
+- [自学笔记 -- 杭电 MOOC](https://www.icourse163.org/course/HDU-1002598057)
 ## 一些内容的链接
+
+### TCP/IP协议
+
+![分层模型](https://pic4.zhimg.com/80/v2-344411f19d90390b70b6908f66caf9ef_720w.jpg)
 
 ### Server
 
 - [nginx 开发 从入门到精通](http://tengine.taobao.org/book/index.html)
+- [前端开发必备的nginx知识](http://www.conardli.top/blog/article/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E5%A4%87%E7%9A%84nginx%E7%9F%A5%E8%AF%86.html)
+- 
 
 ### P2P
 
