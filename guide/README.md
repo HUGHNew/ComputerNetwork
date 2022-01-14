@@ -9,13 +9,21 @@
 
 视频MOOC
 
+- [哈工大](https://www.icourse163.org/course/HIT-154005)
+- [中科大](https://www.icourse163.org/course/USTC-1463123169)
+
 
 ## 书籍推荐
 
 ## 笔记
 - [自学笔记 -- 杭电 MOOC](https://www.icourse163.org/course/HDU-1002598057)
+- [考前笔记--Hugh](https://github.com/HughClub/CoursesNotes/blob/main/network.md)
 ## 一些内容的链接
 
+### 复习与刷题
+
+- [Berkeley习题 似乎大题很多改编自此](https://inst.eecs.berkeley.edu/~ee122/archives.html)
+- [网络资源 朱敏复习纲要](https://max.book118.com/html/2016/1016/59481820.shtm)
 ### TCP/IP协议
 
 ![分层模型](https://pic4.zhimg.com/80/v2-344411f19d90390b70b6908f66caf9ef_720w.jpg)
